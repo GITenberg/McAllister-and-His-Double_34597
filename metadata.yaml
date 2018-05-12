@@ -1,0 +1,34 @@
+_repo: McAllister-and-His-Double_34597
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 34597-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Train, Arthur Cheney
+    birthdate: 1875
+    deathdate: 1945
+    gutenberg_agent_id: '1756'
+    url: http://www.gutenberg.org/2009/agents/1756
+    wikipedia: http://en.wikipedia.org/wiki/Arthur_Cheney_Train
+description: ''
+gutenberg_issued: '2010-12-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34597'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcc 'PS'
+- !lcsh 'Single men -- Fiction'
+- !lcsh 'Mystery and detective stories'
+- !lcsh 'Valets -- Fiction'
+tableOfContents: McAllister's Christmas -- The Baron de Ville -- The escape of Wilkins
+  -- The governor-general's trunk -- The golden touch -- McAllister's data of ethics
+  -- McAllister's marriage -- The jailbird -- In the course of justice -- The Maximilian
+  diamond -- Extradition.
+title: McAllister and His Double
+url: http://www.gutenberg.org/ebooks/34597
